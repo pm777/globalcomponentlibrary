@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/globalcomponentlibrary/static/css/main.5f361e03.chunk.css",
+    "main.js": "/globalcomponentlibrary/static/js/main.c9764d03.chunk.js",
+    "main.js.map": "/globalcomponentlibrary/static/js/main.c9764d03.chunk.js.map",
+    "runtime-main.js": "/globalcomponentlibrary/static/js/runtime-main.2e2e13db.js",
+    "runtime-main.js.map": "/globalcomponentlibrary/static/js/runtime-main.2e2e13db.js.map",
+    "static/js/2.7bd4d8bd.chunk.js": "/globalcomponentlibrary/static/js/2.7bd4d8bd.chunk.js",
+    "static/js/2.7bd4d8bd.chunk.js.map": "/globalcomponentlibrary/static/js/2.7bd4d8bd.chunk.js.map",
+    "index.html": "/globalcomponentlibrary/index.html",
+    "precache-manifest.c52c33872e62c8d35e1045b1c945b7fc.js": "/globalcomponentlibrary/precache-manifest.c52c33872e62c8d35e1045b1c945b7fc.js",
+    "service-worker.js": "/globalcomponentlibrary/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/globalcomponentlibrary/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7bd4d8bd.chunk.js.LICENSE.txt": "/globalcomponentlibrary/static/js/2.7bd4d8bd.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/globalcomponentlibrary/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e2e13db.js",
+    "static/js/2.7bd4d8bd.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c9764d03.chunk.js"
+  ]
+}
