@@ -68,9 +68,23 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 
-### Followed below steps
+### Followed below steps to create project
 https://medium.com/@jinalshah999/reactjs-step-by-step-tutorial-series-part-5-deploy-todo-application-to-github-pages-fed9d25bddea
 
 and 
 
 https://medium.com/@chandankkrr/publish-your-react-app-to-github-pages-de0b53300609
+
+### To add bootstrap follow below steps
+https://create-react-app.dev/docs/adding-bootstrap
+
+### To add scss follow below steps
+https://www.iamtimsmith.com/blog/how-to-use-styles-in-a-react-js-application/
+create sass folder
+(Any SCSS file without an underscore at the beginning is compiled as a different stylesheet. Since we are pulling all of our stylesheets into the app.scss file)
+create _elements.scss
+create _variables.scss
+create app.scss
+create Components folder
+create component specific scss
+
