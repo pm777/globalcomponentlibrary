@@ -88,3 +88,6 @@ create app.scss
 create Components folder
 create component specific scss
 
+
+### For creating page navigation
+https://www.golangprograms.com/how-to-create-simple-react-router-to-navigate-multiple-pages.html
