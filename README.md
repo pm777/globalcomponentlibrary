@@ -91,3 +91,15 @@ create component specific scss
 
 ### For creating page navigation
 https://www.golangprograms.com/how-to-create-simple-react-router-to-navigate-multiple-pages.html
+
+### For installing MDB Bootstrap
+create new project create-react-app myApp
+cd myApp
+npm install --save mdbreact
+Import style files into the src/index.js before the App.js file:
+import '@fortawesome/fontawesome-free/css/all.min.css';
+import 'bootstrap-css-only/css/bootstrap.min.css';
+import 'mdbreact/dist/css/mdb.css';
+
+https://github.com/mdbootstrap/React-Bootstrap-with-Material-Design
+

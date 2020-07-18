@@ -9,16 +9,20 @@ import Error from './pages/Error';
 import Navigation from './pages/Navigation';
 
 import HorizontalSeparator from './components/HorizontalSeparator';
-import Tooltip from './components/Tooltip';
 import Header from './components/Header';
+import Footer from './components/Footer';
+import ImageSliderCarousels from './components/ImageSliderCarousels';
 function App() {
   return (
     <div className="App">
             
         <Header Title="true"></Header>
-        <HorizontalSeparator></HorizontalSeparator>
+        <br></br><br></br><br></br>
         <h1>Heree....</h1>
-        <Tooltip></Tooltip>
+        <HorizontalSeparator></HorizontalSeparator>
+        <br></br><br></br><br></br><br></br>
+        <ImageSliderCarousels></ImageSliderCarousels>
+        <br></br><br></br><br></br><br></br>
         <br>
         </br>
         <BrowserRouter>
@@ -64,17 +68,8 @@ function App() {
         <br></br>
         <br></br>
         <br></br>
-        <h1>Hii</h1>
-        <h1>Hii</h1>
-        <h1>Hii</h1>
-        <h1>Hii</h1>
-        <h1>Hii</h1>
-        <h1>Hii</h1>
-        <h1>Hii</h1>
-        <h1>Hii</h1>
-        <h1>Hii</h1>
-
-      
+        <h1>ok</h1>      
+      <Footer></Footer>      
     </div>
   );
 }

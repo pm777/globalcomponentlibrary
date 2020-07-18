@@ -3,10 +3,8 @@ import "../sass/app.scss";
 
 const HorizontalSeparator = () => {
     return (
-        <div className="testborder">
-            <h1>Insidehorizontal</h1>
+        <div className="spacer black">
             <hr></hr>
-
         </div>
     );
 }

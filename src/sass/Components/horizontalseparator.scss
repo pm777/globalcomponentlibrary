@@ -1,4 +1,28 @@
-.testborder {
-    border: 1px solid rgba(0, 0, 0, 0.1);
-    border-radius: 5px;
+.spacer {
+   display: flex;
+   align-items: center;
+   width: 100%;
+   
+   &.white{
+       background-color: #ffffff;
+   }
+   &.black{
+   background-color: #000000;
+   }
+   &.offWhite{
+       background-color: #fafafa;
+   }
+   &.lightGray{
+       background-color: #f5f5f5;
+   }
+   &.gray{
+    background-color: #eeeeee;
+   }
+   &.mediumGray{
+    background-color: #d8d9da;
+  }
+  &.darkGray{
+    background-color: #323232;
+  }
+
 }
